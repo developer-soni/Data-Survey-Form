@@ -1,4 +1,4 @@
-Here is the link to test my individual assignment URL : www.datasurveyform.herokuapp.com
+Here is the link to test my individual assignment URL : datasurveyform.herokuapp.com
 
 
 For the development I used React.js.
