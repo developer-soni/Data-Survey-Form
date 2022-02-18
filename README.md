@@ -1,6 +1,4 @@
 # Data Survey Form
-GH-Pages : https://developer-soni.github.io/Data-Survey-Form/ \
-URL : https://www.datasurveyform.herokuapp.com
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,6 +6,10 @@ URL : https://www.datasurveyform.herokuapp.com
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+## Deployed on GH-Pages and Heroku
+https://developer-soni.github.io/Data-Survey-Form/ \
+https://www.datasurveyform.herokuapp.com
 
 ## Description
 * For the development I used React.js.
