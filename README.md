@@ -18,7 +18,7 @@ https://www.datasurveyform.herokuapp.com
 * For captcha I used React Captcha.
 * Responsive for Web and Mobile.
 
-## Documentation and Code
+## Documentation
 URL : https://github.com/developer-soni/Data-Survey-Form \
 Read PDF here ^
 
